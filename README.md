@@ -1,15 +1,15 @@
 <div align="center">
 
   <!-- ================================================================= -->
-  <!-- 1. DYNAMIC ANIMATED HERO BANNER (HOLOGRAPHIC & INFINITE SCROLLER)  -->
+  <!-- 1. RESPONSIVE DYNAMIC HERO BANNER (AUTO-FITS ANY SCREEN SIZE)     -->
   <!-- ================================================================= -->
   <a href="https://codex404solutions.online" target="_blank">
-    <img src="assets/codex404-banner.svg" alt="CodeX404 Solutions — Enterprise Software & AI Studio" width="100%" style="max-width: 1200px; border-radius: 14px; box-shadow: 0 20px 50px rgba(0, 242, 254, 0.15);">
+    <img src="assets/codex404-banner.svg" alt="CodeX404 Solutions — Enterprise Software & AI Studio" width="100%">
   </a>
 
   <br><br>
 
-  <!-- Executive Trust Badges -->
+  <!-- Responsive Trust & Credential Badges (Auto-wrapping on Mobile) -->
   <p align="center">
     <a href="https://codex404solutions.online"><img src="https://img.shields.io/badge/STUDIO-CodeX404%20Solutions-00f2fe?style=for-the-badge&logo=googlecloud&logoColor=black" alt="Studio"></a>
     <a href="https://linkedin.com/in/mnoukhej"><img src="https://img.shields.io/badge/FOUNDER-Muhammad%20Noukhez%20(Ex--TCS%20RnI)-818cf8?style=for-the-badge&logo=linkedin&logoColor=white" alt="Founder"></a>
@@ -18,7 +18,7 @@
     <img src="https://img.shields.io/badge/CLIENT%20IP-100%25%20Zero%20Lock--In-f59e0b?style=for-the-badge&logo=openaccess&logoColor=white" alt="Zero Lock-In">
   </p>
 
-  <!-- Interactive Action Touchpoints -->
+  <!-- Interactive Action Touchpoints (Mobile-Reflow Ready) -->
   <p align="center">
     <a href="https://codex404solutions.online" target="_blank">
       <img src="https://img.shields.io/badge/🌐%20Official%20Portal-codex404solutions.online-0284c7?style=flat-square&logoColor=white" height="32" alt="Website">
@@ -39,8 +39,8 @@
 
   <br>
 
-  <!-- Interactive Glowing Metrics Ribbon -->
-  <img src="assets/metrics-ribbon.svg" alt="CodeX404 Enterprise Performance Metrics" width="100%" style="max-width: 1200px; border-radius: 10px;">
+  <!-- Responsive Performance Metrics Ribbon -->
+  <img src="assets/metrics-ribbon.svg" alt="CodeX404 Enterprise Performance Metrics" width="100%">
 
 </div>
 
@@ -48,10 +48,10 @@
 
 <div align="center">
   <h2>⚡ <span style="color:#00f2fe;">The CodeX404 Standard</span> &nbsp;•&nbsp; <span style="color:#c084fc;">Executive Overview</span></h2>
-  <p><em>"Software &amp; AI that Moves Business Forward • Where Bugs Meet Their Match"</em></p>
+  <p><strong>Software &amp; AI that Moves Business Forward &nbsp;•&nbsp; <i>Where Bugs Meet Their Match</i></strong></p>
 </div>
 
-**CodeX404 Solutions** is a founder-led software engineering and artificial intelligence venture. We bridge the gap between high-level architectural innovation and battle-hardened enterprise execution. 
+**CodeX404 Solutions** is a founder-led software engineering and artificial intelligence studio. We bridge the gap between high-level architectural innovation and battle-hardened enterprise execution.
 
 Founded and directed by **Muhammad Noukhez** — Senior AI Systems Architect with **7+ years of core research and development tenure at Tata Consultancy Services (TCS Research & Innovation / Research & Development teams)** and an **M.Tech in Computer Science & Engineering** — CodeX404 operates on a singular premise: **software should be deterministic, ultra-performant, and mathematically reliable**.
 
@@ -73,56 +73,41 @@ We partner with forward-thinking enterprises, funded startups, and institutional
   <h2>🛡️ <span style="color:#38bdf8;">The Four Engineering Pillars</span></h2>
 </div>
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🎯 1. 100% Senior Direct Engineering</h3>
-      <p>We do not operate like traditional agencies that pitch senior partners and delegate execution to junior apprentices. Every project at CodeX404 is architected, developed, and security-reviewed directly by principal engineers with Fortune 500 enterprise pedigrees.</p>
-      <ul>
-        <li><strong>Direct Technical Leadership:</strong> Direct access to the lead architect.</li>
-        <li><strong>High Signal-to-Noise Ratio:</strong> Clean, defensive, and documented codebases.</li>
-        <li><strong>Velocity Without Technical Debt:</strong> Systems designed right the first time.</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🛡️ 2. Deterministic Zero-Defect Guarantee</h3>
-      <p>True to our motto — <em>"Where Bugs Meet Their Match"</em> — our engineering methodology is rooted in formal verification, strict typing, automated test harnesses, and idempotent system states.</p>
-      <ul>
-        <li><strong>Sub-50ms Microservices:</strong> High-throughput async endpoints.</li>
-        <li><strong>Defensive Edge Validation:</strong> Schema enforcement via Pydantic &amp; Zod.</li>
-        <li><strong>Proactive Telemetry:</strong> Structured logging and distributed tracing.</li>
-      </ul>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🔓 3. 100% Client IP &amp; Zero Lock-In</h3>
-      <p>Your software is your competitive moat. We ensure that you own 100% of the intellectual property, configuration files, deployment scripts, and documentation upon delivery.</p>
-      <ul>
-        <li><strong>Cloud-Agnostic Containers:</strong> Dockerized for AWS, Azure, GCP, or Bare Metal.</li>
-        <li><strong>Comprehensive Handover:</strong> Clear API contracts, OpenAPI specs, and guides.</li>
-        <li><strong>No Hidden Royalties:</strong> Pure, transparent engineering ownership.</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🌐 4. Global Delivery &amp; High Concurrency</h3>
-      <p>From institutional portals handling tens of thousands of concurrent users to cross-border FinTech webhooks, our solutions are engineered for global scale and resilience.</p>
-      <ul>
-        <li><strong>Global Footprint:</strong> Clients in US, UK, UAE, KSA, CA, AU, and India.</li>
-        <li><strong>Multi-Rail Integrations:</strong> Stripe, Razorpay, WhatsApp Business APIs.</li>
-        <li><strong>High-Availability SLA:</strong> 99.99% uptime architectures.</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+### 🎯 1. 100% Senior Direct Engineering
+> **Direct Principal Leadership &nbsp;|&nbsp; Zero Junior Handoffs &nbsp;|&nbsp; High Signal-to-Noise Ratio**  
+> We do not operate like traditional agencies that pitch senior partners and delegate execution to junior apprentices. Every project at CodeX404 is architected, developed, and security-reviewed directly by principal engineers with Fortune 500 enterprise pedigrees.
+> * **Direct Technical Leadership:** Direct communication with the lead architect throughout every sprint.
+> * **Zero Technical Debt:** Clean, defensive, and rigorously documented codebases.
+> * **High Velocity:** Systems engineered right the first time without costly rewrites.
+
+### 🛡️ 2. Deterministic Zero-Defect Guarantee
+> **Sub-50ms APIs &nbsp;|&nbsp; Strict Typing &nbsp;|&nbsp; Idempotent Architecture**  
+> True to our motto — *"Where Bugs Meet Their Match"* — our engineering methodology is rooted in formal verification, strict typing, automated test harnesses, and idempotent system states.
+> * **Sub-50ms Response Latency:** High-throughput asynchronous endpoints powered by FastAPI and uvloop.
+> * **Defensive Edge Validation:** Strict schema enforcement via Pydantic and runtime validation.
+> * **Proactive Telemetry:** Structured JSON logging, health checks, and distributed tracing.
+
+### 🔓 3. 100% Client IP Ownership & Zero Lock-In
+> **Cloud-Agnostic Containers &nbsp;|&nbsp; Clean IP Transfer &nbsp;|&nbsp; No Hidden Royalties**  
+> Your software is your competitive moat. We ensure that you own 100% of the intellectual property, configuration files, deployment scripts, and documentation upon delivery.
+> * **Dockerized Portability:** Deploy seamlessly to AWS, Azure, Google Cloud, or Bare Metal.
+> * **Comprehensive Handover:** Clear API contracts, OpenAPI specs, architecture guides, and runbooks.
+> * **Zero Vendor Lock-In:** Pure, transparent engineering ownership.
+
+### 🌐 4. Global Delivery & High Concurrency
+> **99.99% Availability &nbsp;|&nbsp; Multi-Rail Integrations &nbsp;|&nbsp; 7+ Countries Served**  
+> From institutional portals handling tens of thousands of concurrent users to cross-border FinTech webhooks, our solutions are engineered for global scale and resilience.
+> * **Global Footprint:** Serving clients across the US, UK, UAE, Saudi Arabia, Canada, Australia, and India.
+> * **Payment & Messaging Rails:** Seamless Stripe, Razorpay, and WhatsApp Business API integrations.
+> * **High-Availability SLA:** 99.99% uptime architectures built to withstand heavy traffic spikes.
 
 ---
 
 <div align="center">
   <h2>💼 <span style="color:#a855f7;">Practice Areas &amp; Solutions Matrix</span></h2>
   <br>
-  <!-- Animated Typing Terminal Pipeline Widget -->
-  <img src="assets/typing-pipeline.svg" alt="CodeX404 Realtime Pipeline Stream" width="100%" style="max-width: 1200px; border-radius: 10px;">
+  <!-- Responsive Animated Real-Time Orchestration Stream -->
+  <img src="assets/typing-pipeline.svg" alt="CodeX404 Realtime Pipeline Stream" width="100%">
   <br><br>
 </div>
 
@@ -162,12 +147,12 @@ End-to-end automation pipelines that replace manual administrative overhead with
   <h2>🛠️ <span style="color:#00f2fe;">Continuous Tech Scroller</span> &nbsp;•&nbsp; <span style="color:#34d399;">Active Arsenal</span></h2>
   <br>
 
-  <!-- Animated Continuous Tech Scroller Marquee -->
-  <img src="assets/marquee-tech.svg" alt="CodeX404 Continuous Tech Scroller" width="100%" style="max-width: 1200px; border-radius: 10px;">
+  <!-- Responsive Animated Continuous Tech Scroller Marquee -->
+  <img src="assets/marquee-tech.svg" alt="CodeX404 Continuous Tech Scroller" width="100%">
 
   <br><br>
 
-  <p>
+  <p align="center">
     <img src="https://img.shields.io/badge/Python_3.12-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
     <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI">
     <img src="https://img.shields.io/badge/Azure_OpenAI-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure OpenAI">
@@ -187,47 +172,28 @@ End-to-end automation pipelines that replace manual administrative overhead with
 ---
 
 <div align="center">
-  <h2>🚀 <span style="color:#fbbf24;">Featured Enterprise &amp; Production Showcase</span></h2>
+  <h2>🚀 <span style="color:#fbbf24;">Featured Production Showcase</span></h2>
 </div>
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>🌐 <a href="https://codex404solutions.online">CodeX404 Solutions Portal</a></h4>
-      <p>The centralized hub for our studio's software engineering services, client discovery systems, case studies, and enterprise inquiry pipelines.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Status-Production-10b981?style=flat-square" alt="Production">
-        <img src="https://img.shields.io/badge/Stack-Cloud%20Architecture-blue?style=flat-square" alt="Stack">
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h4>🏫 <a href="https://insandegreeclg.codex404solutions.online">Insan Degree College ERP</a></h4>
-      <p>Comprehensive educational enterprise portal serving 25,000+ active visits with instantaneous admission workflows and verified certificate verification.</p>
-      <p>
-        <img src="https://img.shields.io/badge/High%20Volume-25K+%20MAU-00f2fe?style=flat-square" alt="25K+ MAU">
-        <img src="https://img.shields.io/badge/Uptime-99.99%25-10b981?style=flat-square" alt="99.99%">
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>🛡️ <a href="https://github.com/mnoukhej/Instrusion-Detection-System">Intrusion Detection System</a></h4>
-      <p>Machine-learning-driven network intrusion detection engine classifying anomalies and attack signatures in real-time network traffic.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Domain-AI%20Security-c084fc?style=flat-square" alt="AI Security">
-        <img src="https://img.shields.io/badge/Tech-Python%20%7C%20ML-38bdf8?style=flat-square" alt="ML">
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h4>🤖 <a href="https://github.com/mnoukhej/Spam_Email_Detection">Spam &amp; Threat Intelligence Engine</a></h4>
-      <p>High-accuracy natural language processing system filtering malicious communication vectors and phishing anomalies using NLP models.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Domain-NLP%20%26%20Security-f59e0b?style=flat-square" alt="NLP">
-        <img src="https://img.shields.io/badge/Accuracy-99.2%25-10b981?style=flat-square" alt="Accuracy">
-      </p>
-    </td>
-  </tr>
-</table>
+### 🌐 [CodeX404 Solutions Portal](https://codex404solutions.online)
+> **Enterprise Engineering Studio &amp; AI Systems Hub**  
+> The centralized portal showcasing our enterprise engineering practice, client case studies, discovery scheduling systems, and secure inquiry pipelines.  
+> `Status: Production Live` &nbsp;|&nbsp; `Tech: Cloud Architecture, Responsive Modern UI`
+
+### 🏫 [Insan Degree College ERP](https://insandegreeclg.codex404solutions.online)
+> **Institutional Management Platform (25,000+ MAU Scale)**  
+> Comprehensive educational enterprise portal engineered to handle high-traffic admission surges with instantaneous certificate QR validation, automated fee payment reconciliation, and 99.99% availability.  
+> `Scale: 25,000+ Students` &nbsp;|&nbsp; `Uptime: 99.99% SLA` &nbsp;|&nbsp; `Payment: Stripe & Razorpay`
+
+### 🛡️ [Intrusion Detection System](https://github.com/mnoukhej/Instrusion-Detection-System)
+> **Machine-Learning Network Security Engine**  
+> Real-time network threat detection pipeline that analyzes high-throughput traffic packets, identifies zero-day anomalies, and flags malicious intrusion signatures.  
+> `Domain: AI Security` &nbsp;|&nbsp; `Tech: Python 3.12, scikit-learn, Machine Learning`
+
+### 🤖 [Spam & Threat Detection Intelligence](https://github.com/mnoukhej/Spam_Email_Detection)
+> **NLP Malicious Vector Classifier (99.2% Accuracy)**  
+> High-performance natural language processing model trained to detect advanced phishing attempts, social engineering vectors, and spam across communication streams.  
+> `Domain: NLP & Security` &nbsp;|&nbsp; `Accuracy: 99.2% Verified`
 
 ---
 
@@ -278,22 +244,11 @@ End-to-end automation pipelines that replace manual administrative overhead with
   <h2>🤝 <span style="color:#c084fc;">Leadership &amp; Pedigree</span></h2>
 </div>
 
-<table border="0">
-  <tr>
-    <td width="120" align="center" valign="middle">
-      <a href="https://linkedin.com/in/mnoukhej">
-        <img src="https://img.shields.io/badge/LEADERSHIP-FOUNDER%20%26%20CEO-38bdf8?style=for-the-badge&logoColor=white" alt="Founder">
-      </a>
-    </td>
-    <td valign="middle">
-      <strong>Muhammad Noukhez</strong> — <em>Founder, CEO &amp; Principal AI Systems Architect</em><br>
-      • <strong>7+ Years Enterprise Experience at Tata Consultancy Services (TCS)</strong> across Research &amp; Innovation (RnI) and Research &amp; Development (RnD) teams.<br>
-      • Specialized in enterprise Azure OpenAI deployments, high-throughput asynchronous Python/FastAPI architectures, and mission-critical production support.<br>
-      • <strong>Master of Technology (M.Tech)</strong> in Computer Science &amp; Engineering.<br>
-      • Direct Touchpoint: <a href="https://linkedin.com/in/mnoukhej">linkedin.com/in/mnoukhej</a> &nbsp;|&nbsp; <a href="https://github.com/mnoukhej">github.com/mnoukhej</a>
-    </td>
-  </tr>
-</table>
+> ### **Muhammad Noukhez** — *Founder, CEO &amp; Principal AI Systems Architect*
+> • **7+ Years Enterprise Experience at Tata Consultancy Services (TCS)** across Research &amp; Innovation (RnI) and Research &amp; Development (RnD) teams.  
+> • Specialized in enterprise Azure OpenAI deployments, high-throughput asynchronous Python/FastAPI architectures, and mission-critical production support.  
+> • **Master of Technology (M.Tech)** in Computer Science &amp; Engineering.  
+> • **Direct Touchpoints:** [LinkedIn Profile](https://linkedin.com/in/mnoukhej) &nbsp;|&nbsp; [GitHub Profile](https://github.com/mnoukhej)
 
 ---
 
@@ -302,31 +257,25 @@ End-to-end automation pipelines that replace manual administrative overhead with
   <h2>📬 <span style="color:#00f2fe;">Initiate an Enterprise Engagement</span></h2>
   <p>Ready to deploy deterministic AI systems, sub-50ms APIs, or mission-critical cloud software?</p>
 
-  <table style="border: none; background: transparent;">
-    <tr>
-      <td align="center" style="padding: 12px;">
-        <a href="https://codex404solutions.online/discovery-call.php" target="_blank">
-          <img src="https://img.shields.io/badge/SCHEDULE%20DISCOVERY-Book%20Direct%20Call%20with%20Lead%20Architect-00f2fe?style=for-the-badge&logo=googlecalendar&logoColor=black" alt="Book Discovery">
-        </a>
-      </td>
-      <td align="center" style="padding: 12px;">
-        <a href="mailto:contact@codex404solutions.online">
-          <img src="https://img.shields.io/badge/ENTERPRISE%20EMAIL-contact%40codex404solutions.online-6366f1?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Us">
-        </a>
-      </td>
-      <td align="center" style="padding: 12px;">
-        <a href="https://wa.me/917717747620?text=Hello%20CodeX404%20Solutions%2C%20I%20would%20like%20to%20discuss%20a%20technical%20project." target="_blank">
-          <img src="https://img.shields.io/badge/WHATSAPP%20DIRECT-+91%2077177%2047620-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
-        </a>
-      </td>
-    </tr>
-  </table>
+  <p align="center">
+    <a href="https://codex404solutions.online/discovery-call.php" target="_blank">
+      <img src="https://img.shields.io/badge/SCHEDULE%20DISCOVERY-Book%20Direct%20Call%20with%20Lead%20Architect-00f2fe?style=for-the-badge&logo=googlecalendar&logoColor=black" alt="Book Discovery">
+    </a>
+    <br><br>
+    <a href="mailto:contact@codex404solutions.online">
+      <img src="https://img.shields.io/badge/ENTERPRISE%20EMAIL-contact%40codex404solutions.online-6366f1?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Us">
+    </a>
+    &nbsp;
+    <a href="https://wa.me/917717747620?text=Hello%20CodeX404%20Solutions%2C%20I%20would%20like%20to%20discuss%20a%20technical%20project." target="_blank">
+      <img src="https://img.shields.io/badge/WHATSAPP%20DIRECT-+91%2077177%2047620-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
+    </a>
+  </p>
 
   <br>
 
   <p align="center">
-    <strong>CodeX404 Solutions</strong> &nbsp;•&nbsp; <em>Where Bugs Meet Their Match</em><br>
-    <a href="https://codex404solutions.online">codex404solutions.online</a> &nbsp;•&nbsp; <a href="mailto:contact@codex404solutions.online">contact@codex404solutions.online</a> &nbsp;•&nbsp; Global Remote &amp; Worldwide Delivery
+    <strong>CodeX404 Solutions</strong> &nbsp;•&nbsp; <i>Where Bugs Meet Their Match</i><br>
+    <a href="https://codex404solutions.online">codex404solutions.online</a> &nbsp;•&nbsp; <a href="mailto:contact@codex404solutions.online">contact@codex404solutions.online</a> &nbsp;•&nbsp; Worldwide Remote Delivery
   </p>
 
   <p align="center">
