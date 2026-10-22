@@ -1,0 +1,98 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="96" viewBox="0 0 1200 96" role="img" aria-label="CodeX404 Enterprise Performance Metrics">
+  <defs>
+    <linearGradient id="cardGrad1" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#071324"/>
+      <stop offset="100%" stop-color="#0b1a33"/>
+    </linearGradient>
+
+    <linearGradient id="cardGrad2" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#100b24"/>
+      <stop offset="100%" stop-color="#181036"/>
+    </linearGradient>
+
+    <linearGradient id="numCyan" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00f2fe"/>
+      <stop offset="100%" stop-color="#38bdf8"/>
+    </linearGradient>
+
+    <linearGradient id="numPurple" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#c084fc"/>
+      <stop offset="100%" stop-color="#e879f9"/>
+    </linearGradient>
+
+    <linearGradient id="numGreen" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#34d399"/>
+      <stop offset="100%" stop-color="#10b981"/>
+    </linearGradient>
+
+    <linearGradient id="numGold" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#fbbf24"/>
+      <stop offset="100%" stop-color="#f59e0b"/>
+    </linearGradient>
+
+    <linearGradient id="numPink" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#f472b6"/>
+      <stop offset="100%" stop-color="#fb7185"/>
+    </linearGradient>
+
+    <style>
+      .sans { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; }
+      .mono { font-family: 'JetBrains Mono', 'Fira Code', Consolas, monospace; }
+
+      @keyframes cardPulse {
+        0%, 100% { stroke-opacity: 0.35; }
+        50% { stroke-opacity: 0.8; }
+      }
+      .pulse-border-1 { animation: cardPulse 3.2s ease-in-out infinite; }
+      .pulse-border-2 { animation: cardPulse 3.8s ease-in-out infinite 0.6s; }
+      .pulse-border-3 { animation: cardPulse 3.4s ease-in-out infinite 1.2s; }
+      .pulse-border-4 { animation: cardPulse 4.1s ease-in-out infinite 1.8s; }
+      .pulse-border-5 { animation: cardPulse 3.6s ease-in-out infinite 2.4s; }
+    </style>
+  </defs>
+
+  <!-- Metric 1: 99.99% UPTIME -->
+  <g transform="translate(0, 0)">
+    <rect width="224" height="96" rx="10" fill="url(#cardGrad1)"/>
+    <rect class="pulse-border-1" x="1" y="1" width="222" height="94" rx="10" fill="none" stroke="#00f2fe" stroke-width="1.2"/>
+    <text class="sans" x="112" y="42" font-size="28" font-weight="900" fill="url(#numCyan)" text-anchor="middle">99.99%</text>
+    <text class="sans" x="112" y="66" font-size="11.5" font-weight="700" fill="#94a3b8" text-anchor="middle">UPTIME SLA</text>
+    <text class="mono" x="112" y="82" font-size="9.5" fill="#38bdf8" text-anchor="middle">High Availability</text>
+  </g>
+
+  <!-- Metric 2: &lt; 50MS LATENCY -->
+  <g transform="translate(244, 0)">
+    <rect width="224" height="96" rx="10" fill="url(#cardGrad2)"/>
+    <rect class="pulse-border-2" x="1" y="1" width="222" height="94" rx="10" fill="none" stroke="#c084fc" stroke-width="1.2"/>
+    <text class="sans" x="112" y="42" font-size="28" font-weight="900" fill="url(#numPurple)" text-anchor="middle">&lt; 50ms</text>
+    <text class="sans" x="112" y="66" font-size="11.5" font-weight="700" fill="#94a3b8" text-anchor="middle">API RESPONSE</text>
+    <text class="mono" x="112" y="82" font-size="9.5" fill="#c084fc" text-anchor="middle">FastAPI + uvloop</text>
+  </g>
+
+  <!-- Metric 3: 25,000+ MAU -->
+  <g transform="translate(488, 0)">
+    <rect width="224" height="96" rx="10" fill="url(#cardGrad1)"/>
+    <rect class="pulse-border-3" x="1" y="1" width="222" height="94" rx="10" fill="none" stroke="#34d399" stroke-width="1.2"/>
+    <text class="sans" x="112" y="42" font-size="28" font-weight="900" fill="url(#numGreen)" text-anchor="middle">25,000+</text>
+    <text class="sans" x="112" y="66" font-size="11.5" font-weight="700" fill="#94a3b8" text-anchor="middle">MONTHLY VISITS</text>
+    <text class="mono" x="112" y="82" font-size="9.5" fill="#34d399" text-anchor="middle">Insan Degree ERP</text>
+  </g>
+
+  <!-- Metric 4: 100% SENIOR ENG -->
+  <g transform="translate(732, 0)">
+    <rect width="224" height="96" rx="10" fill="url(#cardGrad2)"/>
+    <rect class="pulse-border-4" x="1" y="1" width="222" height="94" rx="10" fill="none" stroke="#fbbf24" stroke-width="1.2"/>
+    <text class="sans" x="112" y="42" font-size="28" font-weight="900" fill="url(#numGold)" text-anchor="middle">100%</text>
+    <text class="sans" x="112" y="66" font-size="11.5" font-weight="700" fill="#94a3b8" text-anchor="middle">SENIOR DIRECT ENG</text>
+    <text class="mono" x="112" y="82" font-size="9.5" fill="#fbbf24" text-anchor="middle">Zero Junior Handoffs</text>
+  </g>
+
+  <!-- Metric 5: 0% LOCK-IN -->
+  <g transform="translate(976, 0)">
+    <rect width="224" height="96" rx="10" fill="url(#cardGrad1)"/>
+    <rect class="pulse-border-5" x="1" y="1" width="222" height="94" rx="10" fill="none" stroke="#f472b6" stroke-width="1.2"/>
+    <text class="sans" x="112" y="42" font-size="28" font-weight="900" fill="url(#numPink)" text-anchor="middle">0%</text>
+    <text class="sans" x="112" y="66" font-size="11.5" font-weight="700" fill="#94a3b8" text-anchor="middle">VENDOR LOCK-IN</text>
+    <text class="mono" x="112" y="82" font-size="9.5" fill="#f472b6" text-anchor="middle">100% Client IP Owned</text>
+  </g>
+</svg>

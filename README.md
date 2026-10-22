@@ -1,45 +1,49 @@
 <div align="center">
 
-  <!-- Organization Animated Hero Banner -->
+  <!-- ================================================================= -->
+  <!-- 1. DYNAMIC ANIMATED HERO BANNER (HOLOGRAPHIC & INFINITE SCROLLER)  -->
+  <!-- ================================================================= -->
   <a href="https://codex404solutions.online" target="_blank">
-    <img src="assets/codex404-banner.svg" alt="CodeX404 Solutions — Enterprise Software & AI Studio" width="100%" style="max-width: 1200px; border-radius: 12px; box-shadow: 0 20px 40px rgba(0,0,0,0.45);">
+    <img src="assets/codex404-banner.svg" alt="CodeX404 Solutions — Enterprise Software & AI Studio" width="100%" style="max-width: 1200px; border-radius: 14px; box-shadow: 0 20px 50px rgba(0, 242, 254, 0.15);">
   </a>
 
   <br><br>
 
-  <!-- Tagline & Value Proposition -->
-  <h3>Software &amp; AI That Moves Business Forward &nbsp;•&nbsp; <i>Where Bugs Meet Their Match</i></h3>
+  <!-- Animated Typing Terminal Pipeline Widget -->
+  <img src="assets/typing-pipeline.svg" alt="CodeX404 Realtime Pipeline Stream" width="100%" style="max-width: 1200px; border-radius: 10px;">
 
+  <br><br>
+
+  <!-- Interactive Glowing Metrics Ribbon -->
+  <img src="assets/metrics-ribbon.svg" alt="CodeX404 Enterprise Performance Metrics" width="100%" style="max-width: 1200px; border-radius: 10px;">
+
+  <br><br>
+
+  <!-- Executive Trust Badges -->
   <p align="center">
-    <strong>A high-caliber software engineering studio architecting enterprise Generative AI systems, mission-critical cloud backends, and deterministic zero-defect digital solutions.</strong>
+    <a href="https://codex404solutions.online"><img src="https://img.shields.io/badge/STUDIO-CodeX404%20Solutions-00f2fe?style=for-the-badge&logo=googlecloud&logoColor=black" alt="Studio"></a>
+    <a href="https://linkedin.com/in/mnoukhej"><img src="https://img.shields.io/badge/FOUNDER-Muhammad%20Noukhez%20(Ex--TCS%20RnI)-818cf8?style=for-the-badge&logo=linkedin&logoColor=white" alt="Founder"></a>
+    <img src="https://img.shields.io/badge/ENGINEERING-100%25%20Senior%20Direct-10b981?style=for-the-badge&logo=checkmarx&logoColor=white" alt="Senior Direct">
+    <img src="https://img.shields.io/badge/ARCHITECTURE-Deterministic%20Zero--Defect-c084fc?style=for-the-badge&logo=shield&logoColor=white" alt="Zero-Defect">
+    <img src="https://img.shields.io/badge/CLIENT%20IP-100%25%20Zero%20Lock--In-f59e0b?style=for-the-badge&logo=openaccess&logoColor=white" alt="Zero Lock-In">
   </p>
 
-  <!-- Executive Trust & Credential Badges -->
-  <p align="center">
-    <a href="https://codex404solutions.online"><img src="https://img.shields.io/badge/STUDIO-CodeX404%20Solutions-00f2fe?style=flat-square&logo=googlecloud&logoColor=black" alt="CodeX404 Solutions"></a>
-    <a href="https://linkedin.com/in/mnoukhej"><img src="https://img.shields.io/badge/FOUNDER-Muhammad%20Noukhez%20(Ex--TCS%20RnI)-818cf8?style=flat-square&logo=linkedin&logoColor=white" alt="Founder Muhammad Noukhez"></a>
-    <img src="https://img.shields.io/badge/ENGINEERING-100%25%20Senior%20Direct-10b981?style=flat-square&logo=checkmarx&logoColor=white" alt="100% Senior Direct Delivery">
-    <img src="https://img.shields.io/badge/ARCHITECTURE-Deterministic%20Zero--Defect-c084fc?style=flat-square&logo=shield&logoColor=white" alt="Zero-Defect Standard">
-    <img src="https://img.shields.io/badge/CLIENT%20IP-100%25%20Zero%20Lock--In-f59e0b?style=flat-square&logo=openaccess&logoColor=white" alt="Zero Lock-In">
-    <img src="https://img.shields.io/badge/GLOBAL%20CLIENTS-US%20%7C%20UK%20%7C%20UAE%20%7C%20KSA%20%7C%20CA%20%7C%20AU%20%7C%20IN-38bdf8?style=flat-square&logo=globe&logoColor=white" alt="Global Footprint">
-  </p>
-
-  <!-- Action Touchpoint CTA Buttons -->
+  <!-- Interactive Action Touchpoints -->
   <p align="center">
     <a href="https://codex404solutions.online" target="_blank">
-      <img src="https://img.shields.io/badge/🌐%20Explore%20Official%20Website-codex404solutions.online-0284c7?style=for-the-badge&logoColor=white" alt="Official Website">
+      <img src="https://img.shields.io/badge/🌐%20Official%20Portal-codex404solutions.online-0284c7?style=flat-square&logoColor=white" height="32" alt="Website">
     </a>
     &nbsp;
     <a href="https://codex404solutions.online/discovery-call.php" target="_blank">
-      <img src="https://img.shields.io/badge/📅%20Book%20Technical%20Discovery%20Call-Instant%20Schedule-10b981?style=for-the-badge&logoColor=white" alt="Book Discovery Call">
+      <img src="https://img.shields.io/badge/📅%20Book%20Technical%20Discovery-Instant%20Calendar-10b981?style=flat-square&logoColor=white" height="32" alt="Book Discovery">
     </a>
     &nbsp;
-    <a href="https://wa.me/917717747620?text=Hi%20CodeX404%20Team%2C%20I'd%20like%20to%20discuss%20a%20project." target="_blank">
-      <img src="https://img.shields.io/badge/💬%20WhatsApp%20Direct-+91%2077177%2047620-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp Direct">
+    <a href="https://wa.me/917717747620?text=Hi%20CodeX404%20Solutions%20Team%2C%20I'd%20like%20to%20discuss%20a%20high-scale%20project." target="_blank">
+      <img src="https://img.shields.io/badge/💬%20WhatsApp%20Direct-+91%2077177%2047620-25D366?style=flat-square&logo=whatsapp&logoColor=white" height="32" alt="WhatsApp">
     </a>
     &nbsp;
     <a href="mailto:contact@codex404solutions.online">
-      <img src="https://img.shields.io/badge/✉️%20Enterprise%20Inquiry-contact@codex404solutions.online-6366f1?style=for-the-badge&logo=gmail&logoColor=white" alt="Email CodeX404">
+      <img src="https://img.shields.io/badge/✉️%20Enterprise%20Inquiry-contact@codex404solutions.online-6366f1?style=flat-square&logo=gmail&logoColor=white" height="32" alt="Email">
     </a>
   </p>
 
@@ -47,27 +51,32 @@
 
 ---
 
-## 🏛️ Executive Overview
+<div align="center">
+  <h2>⚡ <span style="color:#00f2fe;">The CodeX404 Standard</span> &nbsp;•&nbsp; <span style="color:#c084fc;">Executive Overview</span></h2>
+  <p><em>"Software &amp; AI that Moves Business Forward • Where Bugs Meet Their Match"</em></p>
+</div>
 
-**CodeX404 Solutions** is a specialized, founder-led software engineering and artificial intelligence venture. We bridge the gap between high-level architectural innovation and battle-hardened enterprise execution. 
+**CodeX404 Solutions** is a founder-led software engineering and artificial intelligence venture. We bridge the gap between high-level architectural innovation and battle-hardened enterprise execution. 
 
-Founded and directed by **Muhammad Noukhez** — Senior AI Systems Architect with **7+ years of core research and development tenure at Tata Consultancy Services (TCS Research & Innovation / Research & Development teams)** and a **Master of Technology (M.Tech) in Computer Science & Engineering** — CodeX404 operates on a singular premise: **software should be deterministic, ultra-performant, and mathematically reliable**.
+Founded and directed by **Muhammad Noukhez** — Senior AI Systems Architect with **7+ years of core research and development tenure at Tata Consultancy Services (TCS Research & Innovation / Research & Development teams)** and an **M.Tech in Computer Science & Engineering** — CodeX404 operates on a singular premise: **software should be deterministic, ultra-performant, and mathematically reliable**.
 
 We partner with forward-thinking enterprises, funded startups, and institutional organizations worldwide to design and deploy high-throughput backend microservices, private Generative AI agents, and custom cloud infrastructure.
 
 ```
 ┌────────────────────────────────────────────────────────────────────────────────────────┐
-│                                  THE CODEX404 STANDARD                                 │
+│                              THE 4 ZERO-DEFECT PILLARS                                 │
 ├──────────────────────────┬──────────────────────────────┬──────────────────────────────┤
-│  100% Senior Direct Eng  │  Deterministic Zero-Defect   │  Zero Vendor Lock-In         │
-│  No junior handoffs or   │  Fail-safe schemas, static   │  100% Client IP ownership.   │
-│  freelancer delegation.  │  typing & 99.99% SLA uptime. │  Docker containerized, open. │
+│  🎯 100% SENIOR ENG      │  🛡️ ZERO-DEFECT GUARANTEE    │  🔓 100% CLIENT IP OWNERSHIP │
+│  Every line architected  │  Defensive schemas, static   │  Docker containerized, open  │
+│  by principal engineers. │  typing, sub-50ms latency.   │  infrastructure, no lock-in. │
 └──────────────────────────┴──────────────────────────────┴──────────────────────────────┘
 ```
 
 ---
 
-## 🎯 The Four Engineering Pillars
+<div align="center">
+  <h2>🛡️ <span style="color:#38bdf8;">The Four Engineering Pillars</span></h2>
+</div>
 
 <table>
   <tr>
@@ -114,7 +123,9 @@ We partner with forward-thinking enterprises, funded startups, and institutional
 
 ---
 
-## 💼 Practice Areas & Solutions Matrix
+<div align="center">
+  <h2>💼 <span style="color:#a855f7;">Practice Areas &amp; Solutions Matrix</span></h2>
+</div>
 
 ### 🤖 1. Enterprise Generative AI & Autonomous Systems
 We engineer production-grade Generative AI pipelines that move beyond simple wrappers into secure, private, enterprise-ready cognitive engines:
@@ -148,44 +159,37 @@ End-to-end automation pipelines that replace manual administrative overhead with
 
 ---
 
-## 🛠️ The CodeX404 Technology Arsenal
-
 <div align="center">
+  <h2>🛠️ <span style="color:#00f2fe;">Continuous Tech Scroller</span> &nbsp;•&nbsp; <span style="color:#34d399;">Active Arsenal</span></h2>
+  <br>
 
-| Domain | Production Technologies & Frameworks |
-| :--- | :--- |
-| **Artificial Intelligence &amp; ML** | `Azure OpenAI` `LLMs & RAG` `Autonomous Agents` `LangChain` `Qdrant` `Pinecone` `PyTorch` `TensorFlow` `YOLO` `OpenCV` |
-| **Backend &amp; Microservices** | `Python 3.12` `FastAPI` `Django` `Flask` `Node.js` `Express` `RESTful APIs` `GraphQL` `Celery` `Redis Pub/Sub` |
-| **Frontend &amp; Modern Web** | `React.js` `Next.js` `TypeScript` `JavaScript (ESNext)` `TailwindCSS` `HTML5` `CSS3` `Modern Design Systems` |
-| **Cloud, DevOps &amp; Containers** | `Azure` `AWS` `Docker` `Docker Compose` `Linux / Bash` `GitHub Actions CI/CD` `Nginx` `Traefik` |
-| **Databases &amp; Caching** | `PostgreSQL` `MongoDB` `MySQL` `Redis` `Supabase` `SQLite` `Vector Stores` |
-| **Enterprise Integrations** | `WhatsApp Cloud API` `Stripe Webhooks` `Razorpay` `SendGrid` `OAuth 2.0 / JWT` `Celery Workers` |
+  <!-- Animated Continuous Tech Scroller Marquee -->
+  <img src="assets/marquee-tech.svg" alt="CodeX404 Continuous Tech Scroller" width="100%" style="max-width: 1200px; border-radius: 10px;">
 
-</div>
+  <br><br>
 
-<br>
-
-<div align="center">
-  <!-- Categorized Badges Showcase -->
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI">
-  <img src="https://img.shields.io/badge/Azure_OpenAI-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" alt="Azure OpenAI">
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangChain">
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch">
-  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" alt="Django">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js">
-  <img src="https://img.shields.io/badge/React.js-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React">
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker">
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL">
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB">
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis">
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions">
+  <p>
+    <img src="https://img.shields.io/badge/Python_3.12-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+    <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI">
+    <img src="https://img.shields.io/badge/Azure_OpenAI-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure OpenAI">
+    <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain">
+    <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch">
+    <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django">
+    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
+    <img src="https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
+    <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js">
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
+    <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
+    <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
+    <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis">
+  </p>
 </div>
 
 ---
 
-## 🚀 Featured Enterprise & Production Showcase
+<div align="center">
+  <h2>🚀 <span style="color:#fbbf24;">Featured Enterprise &amp; Production Showcase</span></h2>
+</div>
 
 <table>
   <tr>
@@ -228,9 +232,9 @@ End-to-end automation pipelines that replace manual administrative overhead with
 
 ---
 
-## 🔄 The CodeX404 Delivery Framework
-
-We adhere to a battle-tested 5-stage engineering lifecycle that ensures transparency, velocity, and zero surprises:
+<div align="center">
+  <h2>🔄 <span style="color:#00f2fe;">The CodeX404 5-Stage Delivery Framework</span></h2>
+</div>
 
 ```
 [1. Deep Discovery] ──► [2. System Blueprint] ──► [3. Sprint Execution] ──► [4. Hardening & QA] ──► [5. Production & IP Handover]
@@ -251,9 +255,9 @@ We adhere to a battle-tested 5-stage engineering lifecycle that ensures transpar
 
 ---
 
-## 🌐 Global Reach & Engagement Footprint
-
-CodeX404 Solutions engineers software for enterprises, institutions, and founders spanning multiple jurisdictions:
+<div align="center">
+  <h2>🌐 <span style="color:#38bdf8;">Global Reach &amp; Engagement Footprint</span></h2>
+</div>
 
 <div align="center">
 
@@ -271,11 +275,13 @@ CodeX404 Solutions engineers software for enterprises, institutions, and founder
 
 ---
 
-## 🤝 Leadership & Pedigree
+<div align="center">
+  <h2>🤝 <span style="color:#c084fc;">Leadership &amp; Pedigree</span></h2>
+</div>
 
 <table border="0">
   <tr>
-    <td width="100" align="center" valign="middle">
+    <td width="120" align="center" valign="middle">
       <a href="https://linkedin.com/in/mnoukhej">
         <img src="https://img.shields.io/badge/LEADERSHIP-FOUNDER%20%26%20CEO-38bdf8?style=for-the-badge&logoColor=white" alt="Founder">
       </a>
@@ -292,11 +298,10 @@ CodeX404 Solutions engineers software for enterprises, institutions, and founder
 
 ---
 
-## 📬 Initiate an Enterprise Engagement
-
-Whether you are architecting a novel Generative AI platform, migrating legacy services to high-throughput cloud microservices, or building mission-critical institutional software:
-
 <div align="center">
+
+  <h2>📬 <span style="color:#00f2fe;">Initiate an Enterprise Engagement</span></h2>
+  <p>Ready to deploy deterministic AI systems, sub-50ms APIs, or mission-critical cloud software?</p>
 
   <table style="border: none; background: transparent;">
     <tr>
@@ -322,7 +327,7 @@ Whether you are architecting a novel Generative AI platform, migrating legacy se
 
   <p align="center">
     <strong>CodeX404 Solutions</strong> &nbsp;•&nbsp; <em>Where Bugs Meet Their Match</em><br>
-    <a href="https://codex404solutions.online">codex404solutions.online</a> &nbsp;•&nbsp; <a href="mailto:contact@codex404solutions.online">contact@codex404solutions.online</a> &nbsp;•&nbsp; Patna, Bihar, India &amp; Global Remote
+    <a href="https://codex404solutions.online">codex404solutions.online</a> &nbsp;•&nbsp; <a href="mailto:contact@codex404solutions.online">contact@codex404solutions.online</a> &nbsp;•&nbsp; Global Remote &amp; Worldwide Delivery
   </p>
 
   <p align="center">
