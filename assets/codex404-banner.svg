@@ -1,0 +1,231 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="370" viewBox="0 0 1200 370" role="img" aria-labelledby="orgTitle orgDesc">
+  <title id="orgTitle">CodeX404 Solutions — Enterprise Software &amp; AI Studio</title>
+  <desc id="orgDesc">Official GitHub organization banner for CodeX404 Solutions: Software &amp; AI that moves business forward. Where Bugs Meet Their Match.</desc>
+
+  <defs>
+    <!-- Background Gradient -->
+    <linearGradient id="orgCanvasBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#050814"/>
+      <stop offset="45%" stop-color="#090f22"/>
+      <stop offset="85%" stop-color="#120c29"/>
+      <stop offset="100%" stop-color="#070a16"/>
+    </linearGradient>
+
+    <!-- Neon Accent Gradients -->
+    <linearGradient id="brandGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00f2fe"/>
+      <stop offset="35%" stop-color="#38bdf8"/>
+      <stop offset="70%" stop-color="#818cf8"/>
+      <stop offset="100%" stop-color="#c084fc"/>
+    </linearGradient>
+
+    <linearGradient id="terminalBarGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#111827"/>
+      <stop offset="100%" stop-color="#1f2937"/>
+    </linearGradient>
+
+    <linearGradient id="goldGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#fbbf24"/>
+      <stop offset="100%" stop-color="#f59e0b"/>
+    </linearGradient>
+
+    <!-- Radial Ambient Glows -->
+    <radialGradient id="glowLeft" cx="15%" cy="35%" r="45%">
+      <stop offset="0%" stop-color="#00f2fe" stop-opacity="0.18"/>
+      <stop offset="100%" stop-color="#00f2fe" stop-opacity="0"/>
+    </radialGradient>
+
+    <radialGradient id="glowRight" cx="85%" cy="45%" r="50%">
+      <stop offset="0%" stop-color="#818cf8" stop-opacity="0.22"/>
+      <stop offset="60%" stop-color="#c084fc" stop-opacity="0.08"/>
+      <stop offset="100%" stop-color="#c084fc" stop-opacity="0"/>
+    </radialGradient>
+
+    <!-- Subdued Cyber Grid -->
+    <pattern id="cyberGrid" width="30" height="30" patternUnits="userSpaceOnUse">
+      <path d="M 30 0 L 0 0 0 30" fill="none" stroke="#38bdf8" stroke-width="0.75" stroke-opacity="0.06"/>
+    </pattern>
+
+    <style>
+      .mono { font-family: 'JetBrains Mono', 'Fira Code', 'Consolas', 'Courier New', monospace; }
+      .sans { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif; }
+      
+      @keyframes blink {
+        0%, 49% { opacity: 1; }
+        50%, 100% { opacity: 0; }
+      }
+      .cursor {
+        animation: blink 1.05s infinite;
+      }
+
+      @keyframes pulseDot {
+        0%, 100% { transform: scale(1); opacity: 1; }
+        50% { transform: scale(1.3); opacity: 0.6; }
+      }
+      .live-dot {
+        transform-origin: 72px 51px;
+        animation: pulseDot 2s ease-in-out infinite;
+      }
+    </style>
+  </defs>
+
+  <!-- Base Canvas -->
+  <rect width="1200" height="370" fill="url(#orgCanvasBg)" rx="14"/>
+  <rect width="1200" height="370" fill="url(#cyberGrid)" rx="14"/>
+  <rect width="1200" height="370" fill="url(#glowLeft)" rx="14"/>
+  <rect width="1200" height="370" fill="url(#glowRight)" rx="14"/>
+
+  <!-- Border Frame -->
+  <rect x="1" y="1" width="1198" height="368" fill="none" stroke="#38bdf8" stroke-width="1.2" stroke-opacity="0.22" rx="14"/>
+
+  <!-- ================================================================= -->
+  <!-- LEFT COLUMN: ORGANIZATION IDENTITY & ARCHITECTURAL HIGHLIGHTS     -->
+  <!-- ================================================================= -->
+
+  <!-- Top Status Chip: Enterprise Studio -->
+  <g transform="translate(52, 38)">
+    <rect x="0" y="0" width="410" height="26" rx="13" fill="#0d1b33" stroke="#38bdf8" stroke-width="1" stroke-opacity="0.45"/>
+    <circle class="live-dot" cx="20" cy="13" r="4.5" fill="#10b981"/>
+    <text class="sans" x="34" y="17.5" fill="#38bdf8" font-size="11" font-weight="700" letter-spacing="1.5">ENTERPRISE SOFTWARE &amp; AI SYSTEMS STUDIO</text>
+  </g>
+
+  <!-- Organization Title -->
+  <text class="sans" x="52" y="112" font-size="44" font-weight="800" fill="url(#brandGradient)" letter-spacing="-0.5">
+    CodeX404 Solutions
+  </text>
+
+  <!-- Taglines -->
+  <text class="sans" x="52" y="146" font-size="17" font-weight="600" fill="#f1f5f9" letter-spacing="0.2">
+    Software &amp; AI that Moves Business Forward
+    <tspan fill="#64748b" font-weight="400"> • </tspan>
+    <tspan fill="#38bdf8" font-weight="600">Where Bugs Meet Their Match</tspan>
+  </text>
+  <text class="sans" x="52" y="172" font-size="13.5" font-weight="400" fill="#94a3b8" letter-spacing="0.1">
+    Direct Principal Engineering • GenAI &amp; Autonomous Agents • Zero-Defect Architecture
+  </text>
+
+  <!-- Core Value Badges (Row 1) -->
+  <g transform="translate(52, 196)">
+    <!-- Badge 1: 100% Senior Direct Engineering -->
+    <rect x="0" y="0" width="225" height="28" rx="6" fill="#111827" stroke="#38bdf8" stroke-width="1" stroke-opacity="0.35"/>
+    <text class="sans" x="12" y="18" fill="#e2e8f0" font-size="11.5" font-weight="600">
+      <tspan fill="#38bdf8">🎯 </tspan>100% Senior Direct Delivery
+    </text>
+
+    <!-- Badge 2: Deterministic Zero-Defect -->
+    <rect x="235" y="0" width="195" height="28" rx="6" fill="#111827" stroke="#818cf8" stroke-width="1" stroke-opacity="0.35"/>
+    <text class="sans" x="247" y="18" fill="#e2e8f0" font-size="11.5" font-weight="600">
+      <tspan fill="#818cf8">🛡️ </tspan>Zero-Defect Standard
+    </text>
+
+    <!-- Badge 3: 7+ Yrs Enterprise Pedigree -->
+    <rect x="440" y="0" width="185" height="28" rx="6" fill="#111827" stroke="#c084fc" stroke-width="1" stroke-opacity="0.35"/>
+    <text class="sans" x="452" y="18" fill="#e2e8f0" font-size="11.5" font-weight="600">
+      <tspan fill="#c084fc">💼 </tspan>TCS RnI/RnD Pedigree
+    </text>
+  </g>
+
+  <!-- Core Tech Stack Badges (Row 2) -->
+  <g transform="translate(52, 236)">
+    <!-- Pill 1: Python -->
+    <rect x="0" y="0" width="88" height="24" rx="4" fill="#0b172a" stroke="#38bdf8" stroke-width="0.8" stroke-opacity="0.3"/>
+    <text class="mono" x="10" y="16" fill="#38bdf8" font-size="11" font-weight="500">Python 3.12</text>
+
+    <!-- Pill 2: FastAPI -->
+    <rect x="96" y="0" width="68" height="24" rx="4" fill="#0b172a" stroke="#38bdf8" stroke-width="0.8" stroke-opacity="0.3"/>
+    <text class="mono" x="105" y="16" fill="#38bdf8" font-size="11" font-weight="500">FastAPI</text>
+
+    <!-- Pill 3: Azure OpenAI -->
+    <rect x="172" y="0" width="112" height="24" rx="4" fill="#0b172a" stroke="#818cf8" stroke-width="0.8" stroke-opacity="0.3"/>
+    <text class="mono" x="181" y="16" fill="#818cf8" font-size="11" font-weight="500">Azure OpenAI</text>
+
+    <!-- Pill 4: Agentic RAG -->
+    <rect x="292" y="0" width="102" height="24" rx="4" fill="#0b172a" stroke="#818cf8" stroke-width="0.8" stroke-opacity="0.3"/>
+    <text class="mono" x="301" y="16" fill="#818cf8" font-size="11" font-weight="500">Agentic RAG</text>
+
+    <!-- Pill 5: React & Next.js -->
+    <rect x="402" y="0" width="110" height="24" rx="4" fill="#0b172a" stroke="#c084fc" stroke-width="0.8" stroke-opacity="0.3"/>
+    <text class="mono" x="411" y="16" fill="#c084fc" font-size="11" font-weight="500">React • Next</text>
+
+    <!-- Pill 6: Docker -->
+    <rect x="520" y="0" width="70" height="24" rx="4" fill="#0b172a" stroke="#00f2fe" stroke-width="0.8" stroke-opacity="0.3"/>
+    <text class="mono" x="529" y="16" fill="#00f2fe" font-size="11" font-weight="500">Docker</text>
+  </g>
+
+  <!-- Global Client Footprint Footer -->
+  <g transform="translate(52, 285)">
+    <text class="sans" x="0" y="14" fill="#38bdf8" font-size="12" font-weight="600">
+      🌐 GLOBAL FOOTPRINT:
+      <tspan fill="#cbd5e1" font-weight="400"> United States • United Kingdom • UAE • Saudi Arabia • Canada • Australia • India</tspan>
+    </text>
+  </g>
+
+  <!-- Domain & Portal Coordinates -->
+  <g transform="translate(52, 325)">
+    <text class="mono" x="0" y="14" fill="#64748b" font-size="11.5">
+      PORTAL: <tspan fill="#38bdf8" font-weight="600">codex404solutions.online</tspan>
+      <tspan fill="#475569"> | </tspan>
+      ORG: <tspan fill="#c084fc" font-weight="600">github.com/codex404solutions</tspan>
+      <tspan fill="#475569"> | </tspan>
+      LEAD: <tspan fill="#e2e8f0">Muhammad Noukhez</tspan>
+    </text>
+  </g>
+
+  <!-- ================================================================= -->
+  <!-- RIGHT COLUMN: INTERACTIVE ENTERPRISE GLASS TERMINAL              -->
+  <!-- ================================================================= -->
+  <g transform="translate(685, 34)">
+    <!-- Terminal Outer Container -->
+    <rect x="0" y="0" width="465" height="302" rx="10" fill="#080e1c" fill-opacity="0.88" stroke="#38bdf8" stroke-width="1.2" stroke-opacity="0.3"/>
+    
+    <!-- Terminal Titlebar -->
+    <path d="M 0 10 Q 0 0 10 0 L 455 0 Q 465 0 465 10 L 465 32 L 0 32 Z" fill="url(#terminalBarGradient)"/>
+    <line x1="0" y1="32" x2="465" y2="32" stroke="#1f2937" stroke-width="1"/>
+
+    <!-- Mac Traffic Lights -->
+    <circle cx="18" cy="16" r="5" fill="#ef4444"/>
+    <circle cx="34" cy="16" r="5" fill="#f59e0b"/>
+    <circle cx="50" cy="16" r="5" fill="#10b981"/>
+
+    <!-- Terminal Window Tab / Host Title -->
+    <text class="mono" x="232" y="20" fill="#94a3b8" font-size="11" font-weight="600" text-anchor="middle">
+      codex404@enterprise: ~/studio_manifest.py
+    </text>
+
+    <!-- Terminal Code Body -->
+    <g class="mono" font-size="11.5" transform="translate(20, 56)">
+      <!-- Line 1 -->
+      <text y="0" fill="#c084fc">class <tspan fill="#38bdf8" font-weight="700">CodeX404Solutions</tspan>:</text>
+      
+      <!-- Line 2 -->
+      <text y="20" fill="#94a3b8">    founder     = <tspan fill="#a7f3d0">"Muhammad Noukhez"</tspan>  <tspan fill="#475569"># TCS RnI</tspan></text>
+      
+      <!-- Line 3 -->
+      <text y="39" fill="#94a3b8">    philosophy  = <tspan fill="#a7f3d0">"Where Bugs Meet Their Match"</tspan></text>
+      
+      <!-- Line 4 -->
+      <text y="58" fill="#94a3b8">    engineering = <tspan fill="#fbbf24">"100% Senior Direct Delivery"</tspan></text>
+      
+      <!-- Line 5 -->
+      <text y="77" fill="#94a3b8">    specialties = [</text>
+      <text y="95" fill="#94a3b8">        <tspan fill="#38bdf8">"Azure OpenAI &amp; RAG Systems"</tspan>,</text>
+      <text y="113" fill="#94a3b8">        <tspan fill="#38bdf8">"Autonomous AI Agents"</tspan>,</text>
+      <text y="131" fill="#94a3b8">        <tspan fill="#38bdf8">"High-Concurrency Microservices"</tspan></text>
+      <text y="149" fill="#94a3b8">    ]</text>
+      
+      <!-- Line 6 -->
+      <text y="170" fill="#94a3b8">    client_ip_guarantee = <tspan fill="#60a5fa">True</tspan>  <tspan fill="#475569"># 0% Lock-in</tspan></text>
+      
+      <!-- Line 7 -->
+      <text y="191" fill="#c084fc">    def <tspan fill="#38bdf8">deliver_solution</tspan>(self, challenge):</text>
+      <text y="209" fill="#94a3b8">        return <tspan fill="#34d399">ZeroDefectArchitecture</tspan>(sla=<tspan fill="#a7f3d0">"99.99%"</tspan>)</text>
+
+      <!-- Terminal Output Divider -->
+      <line x1="-8" y1="223" x2="433" y2="223" stroke="#1e293b" stroke-dasharray="3 3"/>
+
+      <!-- Command Execution Line -->
+      <text y="238" fill="#38bdf8">❯ codex404 --audit --prod</text>
+      <text y="254" fill="#34d399">✔ [STATUS 200] 0 Bugs Detected • Ready for Scale<tspan class="cursor" fill="#38bdf8">█</tspan></text>
+    </g>
+  </g>
+</svg>
