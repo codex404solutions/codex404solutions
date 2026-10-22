@@ -9,16 +9,6 @@
 
   <br><br>
 
-  <!-- Animated Typing Terminal Pipeline Widget -->
-  <img src="assets/typing-pipeline.svg" alt="CodeX404 Realtime Pipeline Stream" width="100%" style="max-width: 1200px; border-radius: 10px;">
-
-  <br><br>
-
-  <!-- Interactive Glowing Metrics Ribbon -->
-  <img src="assets/metrics-ribbon.svg" alt="CodeX404 Enterprise Performance Metrics" width="100%" style="max-width: 1200px; border-radius: 10px;">
-
-  <br><br>
-
   <!-- Executive Trust Badges -->
   <p align="center">
     <a href="https://codex404solutions.online"><img src="https://img.shields.io/badge/STUDIO-CodeX404%20Solutions-00f2fe?style=for-the-badge&logo=googlecloud&logoColor=black" alt="Studio"></a>
@@ -46,6 +36,11 @@
       <img src="https://img.shields.io/badge/✉️%20Enterprise%20Inquiry-contact@codex404solutions.online-6366f1?style=flat-square&logo=gmail&logoColor=white" height="32" alt="Email">
     </a>
   </p>
+
+  <br>
+
+  <!-- Interactive Glowing Metrics Ribbon -->
+  <img src="assets/metrics-ribbon.svg" alt="CodeX404 Enterprise Performance Metrics" width="100%" style="max-width: 1200px; border-radius: 10px;">
 
 </div>
 
@@ -125,6 +120,10 @@ We partner with forward-thinking enterprises, funded startups, and institutional
 
 <div align="center">
   <h2>💼 <span style="color:#a855f7;">Practice Areas &amp; Solutions Matrix</span></h2>
+  <br>
+  <!-- Animated Typing Terminal Pipeline Widget -->
+  <img src="assets/typing-pipeline.svg" alt="CodeX404 Realtime Pipeline Stream" width="100%" style="max-width: 1200px; border-radius: 10px;">
+  <br><br>
 </div>
 
 ### 🤖 1. Enterprise Generative AI & Autonomous Systems
