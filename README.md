@@ -3,7 +3,7 @@
   <!-- ================================================================= -->
   <!-- 1. RESPONSIVE DYNAMIC HERO BANNER (AUTO-FITS ANY SCREEN SIZE)     -->
   <!-- ================================================================= -->
-  <a href="https://codex404solutions.online" target="_blank">
+  <a href="https://codex404solutions.com" target="_blank">
     <img src="assets/codex404-banner.svg" alt="CodeX404 Solutions — Enterprise Software & AI Studio" width="100%">
   </a>
 
@@ -11,7 +11,7 @@
 
   <!-- Responsive Trust & Credential Badges (Auto-wrapping on Mobile) -->
   <p align="center">
-    <a href="https://codex404solutions.online"><img src="https://img.shields.io/badge/STUDIO-CodeX404%20Solutions-00f2fe?style=for-the-badge&logo=googlecloud&logoColor=black" alt="Studio"></a>
+    <a href="https://codex404solutions.com"><img src="https://img.shields.io/badge/STUDIO-CodeX404%20Solutions-00f2fe?style=for-the-badge&logo=googlecloud&logoColor=black" alt="Studio"></a>
     <a href="https://linkedin.com/in/mnoukhej"><img src="https://img.shields.io/badge/FOUNDER-Muhammad%20Noukhez%20(Ex--TCS%20RnI)-818cf8?style=for-the-badge&logo=linkedin&logoColor=white" alt="Founder"></a>
     <img src="https://img.shields.io/badge/ENGINEERING-100%25%20Senior%20Direct-10b981?style=for-the-badge&logo=checkmarx&logoColor=white" alt="Senior Direct">
     <img src="https://img.shields.io/badge/ARCHITECTURE-Deterministic%20Zero--Defect-c084fc?style=for-the-badge&logo=shield&logoColor=white" alt="Zero-Defect">
@@ -20,11 +20,11 @@
 
   <!-- Interactive Action Touchpoints (Mobile-Reflow Ready) -->
   <p align="center">
-    <a href="https://codex404solutions.online" target="_blank">
-      <img src="https://img.shields.io/badge/🌐%20Official%20Portal-codex404solutions.online-0284c7?style=flat-square&logoColor=white" height="32" alt="Website">
+    <a href="https://codex404solutions.com" target="_blank">
+      <img src="https://img.shields.io/badge/🌐%20Official%20Portal-codex404solutions.com-0284c7?style=flat-square&logoColor=white" height="32" alt="Website">
     </a>
     &nbsp;
-    <a href="https://codex404solutions.online/discovery-call.php" target="_blank">
+    <a href="https://codex404solutions.com/discovery-call.php" target="_blank">
       <img src="https://img.shields.io/badge/📅%20Book%20Technical%20Discovery-Instant%20Calendar-10b981?style=flat-square&logoColor=white" height="32" alt="Book Discovery">
     </a>
     &nbsp;
@@ -32,8 +32,8 @@
       <img src="https://img.shields.io/badge/💬%20WhatsApp%20Direct-+91%2077177%2047620-25D366?style=flat-square&logo=whatsapp&logoColor=white" height="32" alt="WhatsApp">
     </a>
     &nbsp;
-    <a href="mailto:contact@codex404solutions.online">
-      <img src="https://img.shields.io/badge/✉️%20Enterprise%20Inquiry-contact@codex404solutions.online-6366f1?style=flat-square&logo=gmail&logoColor=white" height="32" alt="Email">
+    <a href="mailto:contact@codex404solutions.com">
+      <img src="https://img.shields.io/badge/✉️%20Enterprise%20Inquiry-contact@codex404solutions.com-6366f1?style=flat-square&logo=gmail&logoColor=white" height="32" alt="Email">
     </a>
   </p>
 
@@ -133,7 +133,7 @@ Dynamic, responsive, and conversion-optimized digital experiences built for high
 
 ### 🏫 4. Institutional Portals & Mission-Critical ERPs
 Scalable management systems for high-traffic institutions, government portals, and educational organizations:
-* **Case Study — Insan Degree College ERP:** Custom institutional platform handling **25,000+ monthly active visits** during peak admission season with **zero downtime** and instant certificate validation ([Live Portal](https://insandegreeclg.codex404solutions.online/)).
+* **Case Study — Insan Degree College ERP:** Custom institutional platform handling **25,000+ monthly active visits** during peak admission season with **zero downtime** and instant certificate validation ([Live Portal](https://insandegreeclg.codex404solutions.com/)).
 * **Complex Data Management:** Student lifecycles, automated fee reconciliation, dynamic exam scheduling, and role-segregated admin consoles.
 
 ### 🔄 5. Enterprise Workflow & Systems Automation
@@ -175,12 +175,12 @@ End-to-end automation pipelines that replace manual administrative overhead with
   <h2>🚀 <span style="color:#fbbf24;">Featured Production Showcase</span></h2>
 </div>
 
-### 🌐 [CodeX404 Solutions Portal](https://codex404solutions.online)
+### 🌐 [CodeX404 Solutions Portal](https://codex404solutions.com)
 > **Enterprise Engineering Studio &amp; AI Systems Hub**  
 > The centralized portal showcasing our enterprise engineering practice, client case studies, discovery scheduling systems, and secure inquiry pipelines.  
 > `Status: Production Live` &nbsp;|&nbsp; `Tech: Cloud Architecture, Responsive Modern UI`
 
-### 🏫 [Insan Degree College ERP](https://insandegreeclg.codex404solutions.online)
+### 🏫 [Insan Degree College ERP](https://insandegreeclg.codex404solutions.com)
 > **Institutional Management Platform (25,000+ MAU Scale)**  
 > Comprehensive educational enterprise portal engineered to handle high-traffic admission surges with instantaneous certificate QR validation, automated fee payment reconciliation, and 99.99% availability.  
 > `Scale: 25,000+ Students` &nbsp;|&nbsp; `Uptime: 99.99% SLA` &nbsp;|&nbsp; `Payment: Stripe & Razorpay`
@@ -258,12 +258,12 @@ End-to-end automation pipelines that replace manual administrative overhead with
   <p>Ready to deploy deterministic AI systems, sub-50ms APIs, or mission-critical cloud software?</p>
 
   <p align="center">
-    <a href="https://codex404solutions.online/discovery-call.php" target="_blank">
+    <a href="https://codex404solutions.com/discovery-call.php" target="_blank">
       <img src="https://img.shields.io/badge/SCHEDULE%20DISCOVERY-Book%20Direct%20Call%20with%20Lead%20Architect-00f2fe?style=for-the-badge&logo=googlecalendar&logoColor=black" alt="Book Discovery">
     </a>
     <br><br>
-    <a href="mailto:contact@codex404solutions.online">
-      <img src="https://img.shields.io/badge/ENTERPRISE%20EMAIL-contact%40codex404solutions.online-6366f1?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Us">
+    <a href="mailto:contact@codex404solutions.com">
+      <img src="https://img.shields.io/badge/ENTERPRISE%20EMAIL-contact%40codex404solutions.com-6366f1?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Us">
     </a>
     &nbsp;
     <a href="https://wa.me/917717747620?text=Hello%20CodeX404%20Solutions%2C%20I%20would%20like%20to%20discuss%20a%20technical%20project." target="_blank">
@@ -275,7 +275,7 @@ End-to-end automation pipelines that replace manual administrative overhead with
 
   <p align="center">
     <strong>CodeX404 Solutions</strong> &nbsp;•&nbsp; <i>Where Bugs Meet Their Match</i><br>
-    <a href="https://codex404solutions.online">codex404solutions.online</a> &nbsp;•&nbsp; <a href="mailto:contact@codex404solutions.online">contact@codex404solutions.online</a> &nbsp;•&nbsp; Worldwide Remote Delivery
+    <a href="https://codex404solutions.com">codex404solutions.com</a> &nbsp;•&nbsp; <a href="mailto:contact@codex404solutions.com">contact@codex404solutions.com</a> &nbsp;•&nbsp; Worldwide Remote Delivery
   </p>
 
   <p align="center">

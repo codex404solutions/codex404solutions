@@ -235,7 +235,7 @@
       <tspan fill="#e2e8f0" font-weight="500"> US • UK • UAE • Saudi Arabia • Canada • Australia • India</tspan>
     </text>
     <text class="mono" x="0" y="32" fill="#64748b" font-size="11">
-      PORTAL: <tspan fill="#38bdf8" font-weight="600">codex404solutions.online</tspan>
+      PORTAL: <tspan fill="#38bdf8" font-weight="600">codex404solutions.com</tspan>
       <tspan fill="#475569"> | </tspan>
       SLA: <tspan fill="#fbbf24" font-weight="600">99.99% Availability</tspan>
     </text>
@@ -288,7 +288,7 @@
       <g class="mono term-phase-2" font-size="11.5">
         <text y="14" fill="#fbbf24"># PHASE 2: CONCURRENCY BENCHMARK</text>
         <text y="32" fill="#38bdf8">❯ locust --headless -u 10000 -r 500 -t 5m</text>
-        <text y="52" fill="#94a3b8">[+] Target: <tspan fill="#e2e8f0">api.codex404solutions.online</tspan></text>
+        <text y="52" fill="#94a3b8">[+] Target: <tspan fill="#e2e8f0">api.codex404solutions.com</tspan></text>
         <text y="72" fill="#94a3b8">[+] Workers: <tspan fill="#34d399">FastAPI + uvloop (x16)</tspan></text>
         <text y="92" fill="#94a3b8">[+] Cache: <tspan fill="#f43f5e">Redis Cluster (Hit: 98.4%)</tspan></text>
         <text y="112" fill="#94a3b8">[+] Vector DB: <tspan fill="#818cf8">Qdrant Hybrid Search</tspan></text>
@@ -306,7 +306,7 @@
         <text y="14" fill="#c084fc"># PHASE 3: CASE STUDY — INSTITUTIONAL ERP</text>
         <text y="32" fill="#38bdf8">❯ codex404 --portal-stats insan-degree-college</text>
         <text y="52" fill="#94a3b8">[+] Institution: <tspan fill="#f1f5f9">Insan Degree College ERP</tspan></text>
-        <text y="72" fill="#94a3b8">[+] Domain: <tspan fill="#38bdf8">insandegreeclg.codex404solutions.online</tspan></text>
+        <text y="72" fill="#94a3b8">[+] Domain: <tspan fill="#38bdf8">insandegreeclg.codex404solutions.com</tspan></text>
         <text y="92" fill="#94a3b8">[+] Monthly Students: <tspan fill="#34d399" font-weight="700">25,000+ Active Visits</tspan></text>
         <text y="112" fill="#94a3b8">[+] Admission Peak: <tspan fill="#fbbf24">Zero Throttling Observed</tspan></text>
         <text y="132" fill="#94a3b8">[+] Certificate Engine: <tspan fill="#34d399">Instant QR-Validated</tspan></text>
